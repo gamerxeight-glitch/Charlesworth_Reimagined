@@ -18,6 +18,8 @@ Working plan for the upgrade. Findings it refers to (S1, L2, F1…) are in [AUDI
 
 Everything else is built on this, so it's settled first.
 
+**How we work:** the author writes the source material (concepts, profiles, lore, events) and drops it into `content/` in the repo. Kiro reviews it file by file against this plan and the audit. The repo is the single source of truth. Long back-and-forth design sessions in chat are avoided; each session should work from files.
+
 - [ ] **1.1 World and background:** fix the contradictions in the lore (L5, L6, L7, L9). Write one source of truth for the families, districts and locations, including the places the whitelist was missing (C3).
 - [ ] **1.2 Two new main characters:**
   - [ ] Male: an outlaw, the anti-Marcus, down to earth. Decide where he comes from and whether he's in Hall A (this affects the "no scholarship" rule and the seating).
@@ -68,10 +70,22 @@ Everything else is built on this, so it's settled first.
 | 2026-10-22 | Order of work: content → opening messages → scripts/lorebook → card. |
 | 2026-10-22 | Calendar dates deferred until the plot is worked out (Phase 1.6). |
 
+## New male main: confirmed so far
+
+- British. Lives alone in the family mansion with his butler. His parents live in the UK and visit now and then, sometimes meeting the Dean on campus, because the family are trust holders of the university.
+- At Charlesworth because of a family tradition started by his grandfather. The grandfather came from a founding family of Oakmont but went back to the UK soon after the town was founded.
+- Dark hair, pale skin. In Hall A.
+- The anti-Marcus: laid-back, relaxed, deadpan, unbothered, quick to smile, brooding, mature, open-minded. (Marcus is rude, loudmouthed, brash, aggressive, a show-off, a bully and an agitator.)
+- Still open: name, the butler's name, what "outlaw" means in practice, his seat, whether he plays soccer.
+
+## World concept: confirmed so far
+
+- There are two types of founding family: **Original** and **New**. Which family falls into which group is still to be decided.
+
 ## Open questions
 
 1. The new female main: connector, "it" girl, or something else?
-2. The new male main: is he in Hall A, and is he elite-born? (The current lore says no main character is on a scholarship.)
+2. The new male main: what does "outlaw" look like in practice? (See the confirmed details above.)
 3. Which female-POV opening events to use (shortlist in progress).
 4. Engagement levels: keep them as the model's judgment, or track them per character in the script?
 5. How much appearance detail to keep, measurements in particular?
